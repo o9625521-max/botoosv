@@ -1,0 +1,7 @@
+aiogram
+python-dotenv
+aiofiles
+aiosqlite
+flask
+flask-cors
+requests
